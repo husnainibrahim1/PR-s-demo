@@ -1,1 +1,1 @@
-hello it's a demo testong of Pull request generation.
+Hello it's a demo testing of Pull request generation.
